@@ -1,7 +1,12 @@
 .contenido {
-  background: #091452;
+  background: #808edf;
 }
 img {
   display: block;
   margin: auto;
+}
+p {
+  background: #94ecc3;
+
+  font-size: 25px;
 }
