@@ -1,0 +1,27 @@
+body {
+  color: seashell;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  float: left;
+  margin-left: 6px;
+}
+img {
+  display: block;
+  margin: auto;
+}
+.items a {
+  float: right;
+  margin-left: 6px;
+  text-decoration: none;
+  color: aqua;
+  padding: 12 px;
+  display: table;
+}
+.items a:hover {
+  background: rgb(rgb(121, 30, 30));
+}
+.contenido {
+  background: #0e1331;
+}
