@@ -1,0 +1,8 @@
+body {
+  background-color: aqua;
+}
+#logo {
+  background: url(img/trabajadores.png) no-repeat right;
+  background-size: 35%;
+  padding: 0cm 0cm 0cm 8cm;
+}
